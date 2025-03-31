@@ -1,8 +1,8 @@
-import header from "./src/header.js";
-import footer from "./src/footer.js";
-import kavek from "./src/kavek.js";
-import sutemenyek from "./src/sutemenyek.js";
-import galeria from "./src/galeria.js";
+import header from "./header.js";
+import footer from "./footer.js";
+import kavek from "./kavek.js";
+import sutemenyek from "./sutemenyek.js";
+import galeria from "./galeria.js";
 
 const init = () => {
   document.getElementById("header").innerHTML = header();
